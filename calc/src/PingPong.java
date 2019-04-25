@@ -23,7 +23,7 @@ public class PingPong extends Application {
 	AnimationTimer timer;
 
 	Ball ball;
-	double ballSpeed = 1.5;
+	double ballSpeed = 1.5;//k
 
 	Scene scene;
 
