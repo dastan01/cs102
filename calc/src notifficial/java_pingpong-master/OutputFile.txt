@@ -1,0 +1,167 @@
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:2  Player2 Score:1  @ballSpeed:1.74
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:1  Player2 Score:0  @ballSpeed:1.58
+Player1 Score:10  Player2 Score:10  @ballSpeed:3.98
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:12  Player2 Score:12  @ballSpeed:4.84
+Player1 Score:12  Player2 Score:12  @ballSpeed:4.84
+Player1 Score:5  Player2 Score:5  @ballSpeed:2.44
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:7  Player2 Score:6  @ballSpeed:2.83
+Player1 Score:2  Player2 Score:2  @ballSpeed:1.82
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:5  Player2 Score:5  @ballSpeed:2.44
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:1  Player2 Score:2  @ballSpeed:1.74
+Player1 Score:1  Player2 Score:1  @ballSpeed:1.65
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:11  Player2 Score:11  @ballSpeed:4.39
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:11  Player2 Score:11  @ballSpeed:4.39
+Player1 Score:3  Player2 Score:3  @ballSpeed:2.01
+Player1 Score:4  Player2 Score:5  @ballSpeed:2.33
+Player1 Score:7  Player2 Score:7  @ballSpeed:2.97
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:6  Player2 Score:7  @ballSpeed:2.83
+Player1 Score:7  Player2 Score:6  @ballSpeed:2.83
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:4  Player2 Score:5  @ballSpeed:2.33
+Player1 Score:7  Player2 Score:6  @ballSpeed:2.83
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:5  Player2 Score:5  @ballSpeed:2.44
+Player1 Score:3  Player2 Score:3  @ballSpeed:2.01
+Player1 Score:8  Player2 Score:8  @ballSpeed:3.27
+Player1 Score:4  Player2 Score:4  @ballSpeed:2.22
+Player1 Score:5  Player2 Score:6  @ballSpeed:2.57
+Player1 Score:4  Player2 Score:4  @ballSpeed:2.22
+Player1 Score:4  Player2 Score:4  @ballSpeed:2.22
+Player1 Score:14  Player2 Score:14  @ballSpeed:5.88
+Player1 Score:6  Player2 Score:7  @ballSpeed:2.83
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:9  Player2 Score:10  @ballSpeed:3.79
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:6  Player2 Score:6  @ballSpeed:2.69
+Player1 Score:7  Player2 Score:7  @ballSpeed:2.97
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:14  Player2 Score:14  @ballSpeed:5.88
+Player1 Score:18  Player2 Score:18  @ballSpeed:8.69
+Player1 Score:11  Player2 Score:11  @ballSpeed:4.39
+Player1 Score:9  Player2 Score:9  @ballSpeed:3.61
+Player1 Score:4  Player2 Score:5  @ballSpeed:2.33
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:1  Player2 Score:1  @ballSpeed:1.65
+Player1 Score:5  Player2 Score:5  @ballSpeed:2.44
+Player1 Score:3  Player2 Score:4  @ballSpeed:2.11
+Player1 Score:4  Player2 Score:3  @ballSpeed:2.11
+Player1 Score:8  Player2 Score:9  @ballSpeed:3.44
+Player1 Score:10  Player2 Score:9  @ballSpeed:3.79
+Player1 Score:9  Player2 Score:10  @ballSpeed:3.79
+Player1 Score:10  Player2 Score:9  @ballSpeed:3.79
+Player1 Score:10  Player2 Score:11  @ballSpeed:4.18
+Player1 Score:9  Player2 Score:8  @ballSpeed:3.44
+Player1 Score:10  Player2 Score:11  @ballSpeed:4.18
+Player1 Score:9  Player2 Score:8  @ballSpeed:3.44
+Player1 Score:2  Player2 Score:2  @ballSpeed:1.82
+Player1 Score:4  Player2 Score:4  @ballSpeed:4.11
+Player1 Score:3  Player2 Score:4  @ballSpeed:2.11
+Player1 Score:6  Player2 Score:5  @ballSpeed:2.57
+Player1 Score:2  Player2 Score:3  @ballSpeed:1.91
+Player1 Score:5  Player2 Score:5  @ballSpeed:4.64
+Player1 Score:3  Player2 Score:4  @ballSpeed:2.11
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:3  Player2 Score:3  @ballSpeed:2.01
+Player1 Score:1  Player2 Score:2  @ballSpeed:1.74
+Player1 Score:2  Player2 Score:1  @ballSpeed:1.74
+Player1 Score:13  Player2 Score:14  @ballSpeed:5.60
+Player1 Score:2  Player2 Score:2  @ballSpeed:1.82
+Player1 Score:5  Player2 Score:4  @ballSpeed:2.33
+Player1 Score:4  Player2 Score:5  @ballSpeed:4.32
+Player1 Score:13  Player2 Score:13  @ballSpeed:5.33
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:0  @ballSpeed:1.50
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:0  Player2 Score:1  @ballSpeed:1.58
+Player1 Score:7  Player2 Score:7  @ballSpeed:2.97
+Player1 Score:5  Player2 Score:6  @ballSpeed:2.57
+Player1 Score:10  Player2 Score:10  @ballSpeed:3.98
+Player1 Score:8  Player2 Score:9  @ballSpeed:3.44
+Player1 Score:3  Player2 Score:39  @ballSpeed:4.84
+Player1 Score:33  Player2 Score:33  @ballSpeed:37.55
+Player1 Score:40  Player2 Score:38  @ballSpeed:41.40
+Player1 Score:19  Player2 Score:20  @ballSpeed:10.06
+Player1 Score:8  Player2 Score:9  @ballSpeed:3.44
+Player1 Score:38  Player2 Score:37  @ballSpeed:37.55
+Player1 Score:30  Player2 Score:30  @ballSpeed:25.41
+Player1 Score:7  Player2 Score:7  @ballSpeed:2.97
+Player1 Score:31  Player2 Score:31  @ballSpeed:30.89
+Player1 Score:25  Player2 Score:25  @ballSpeed:16.38
+Player1 Score:34  Player2 Score:35  @ballSpeed:35.76
+Player1 Score:36  Player2 Score:37  @ballSpeed:29.85
+Player1 Score:177  Player2 Score:181  @ballSpeed:6.75
+Player1 Score:13  Player2 Score:14  @ballSpeed:2.35
+Player1 Score:52  Player2 Score:51  @ballSpeed:4.15
+Player1 Score:68  Player2 Score:67  @ballSpeed:3.50
+Player1 Score:678  Player2 Score:677  @ballSpeed:3.55
+Player1 Score:22  Player2 Score:23  @ballSpeed:2.95
+Player1 Score:17  Player2 Score:16  @ballSpeed:2.35
+Player1 Score:17  Player2 Score:16  @ballSpeed:2.40
+Player1 Score:4  Player2 Score:5  @ballSpeed:3.80
+Player1 Score:6  Player2 Score:7  @ballSpeed:1.95
+Player1 Score:19  Player2 Score:20  @ballSpeed:2.40
+Player1 Score:3  Player2 Score:4  @ballSpeed:3.80
+Player1 Score:161  Player2 Score:163  @ballSpeed:2.85
+Player1 Score:835  Player2 Score:835  @ballSpeed:14.85
+Player1 Score:30  Player2 Score:31  @ballSpeed:5.25
+Player1 Score:12  Player2 Score:14  @ballSpeed:4.25
+Player1 Score:5  Player2 Score:5  @ballSpeed:1.80
+Player1 Score:5  Player2 Score:7  @ballSpeed:3.85
+Player1 Score:3  Player2 Score:4  @ballSpeed:3.80
+Player1 Score:5  Player2 Score:4  @ballSpeed:3.80
+Player1 Score:8  Player2 Score:9  @ballSpeed:4.57
+Player Red Score:4  Player Blue Score:5  @ballSpeed:2.01
+Player Red Score:3  Player Blue Score:3  @ballSpeed:2.01
+Player Red Score:0  Player Blue Score:1  @ballSpeed:1.58
+Player Red Score:1  Player Blue Score:1  @ballSpeed:1.65
+Player Red Score:3  Player Blue Score:4  @ballSpeed:4.01
+Player Red Score:17  Player Blue Score:0  @ballSpeed:1.74
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:1  Player Blue Score:2  @ballSpeed:1.74
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:0  Player Blue Score:0  @ballSpeed:1.50
+Player Red Score:4  Player Blue Score:3  @ballSpeed:4.01
+Player Red Score:9  Player Blue Score:9  @ballSpeed:2.69
+Player Red Score:1  Player Blue Score:1  @ballSpeed:1.65
+Player Red Score:2  Player Blue Score:2  @ballSpeed:1.82
+Player Red Score:4  Player Blue Score:3  @ballSpeed:2.01
+Player Red Score:3  Player Blue Score:3  @ballSpeed:2.01
+Player Red Score:7  Player Blue Score:7  @ballSpeed:4.01
+Player Red Score:7  Player Blue Score:7  @ballSpeed:2.22
