@@ -114,7 +114,7 @@ public class PingPong extends Application {
 		ballWaitAnimation.setCycleCount(Timeline.INDEFINITE);
 		ballWaitAnimation.playFromStart();
 
-		ballAnimation = new Timeline(60, new KeyFrame(Duration.millis(10.0),
+		ballAnimation = new Timeline(30 , new KeyFrame(Duration.millis(10.0),
 				t -> {
 					ball.move(ballSpeed);
 					checkForCollision();
@@ -318,7 +318,7 @@ public class PingPong extends Application {
 			timeline1.play();
 		});
 
-		showHelpButton = new Button("顯示遊戲說明");
+		showHelpButton = new Button("Instruction");
 		showHelpButton.setLayoutX((W / 2) - 40);
 		showHelpButton.setLayoutY(400);
 		showHelpButton.setOnAction(h -> {
@@ -326,7 +326,7 @@ public class PingPong extends Application {
 			showHelpButton.setVisible(false);
 			hideHelpButton.setVisible(true);
 		});
-		hideHelpButton = new Button("隱藏遊戲說明");
+		hideHelpButton = new Button("Return");
 		hideHelpButton.setLayoutX((W / 2) - 40);
 		hideHelpButton.setLayoutY(400);
 		hideHelpButton.setOnAction(h -> {
@@ -337,8 +337,8 @@ public class PingPong extends Application {
 	}
 
 	private String helpText() {
-		return "123123123123\n" +
-				"456456456456\n";
+		return "Players must hit the ball\n" +
+				"Who misses the ball, he lost\n";
 	}
 
 	private void setFBpower(Labels p2fb2, int x) {
