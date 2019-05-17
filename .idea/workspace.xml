@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <list default="true" id="8576b530-5329-4ed4-9296-ae738bf64a9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/OutputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OutputFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calc/src/PingPong.java" beforeDir="false" afterPath="$PROJECT_DIR$/calc/src/PingPong.java" afterDir="false" />
     </list>
+<<<<<<< HEAD
+=======
+=======
+    <list default="true" id="8576b530-5329-4ed4-9296-ae738bf64a9b" name="Default Changelist" comment="" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="C:\Git\cs102\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +23,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/cs102$PingPong.ic" NAME="PingPong Coverage Results" MODIFIED="1557585776599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
@@ -21,8 +35,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calc/src/PingPong.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="232">
               <caret line="342" column="50" lean-forward="true" selection-start-line="342" selection-start-column="50" selection-end-line="342" selection-end-column="50" />
+=======
+            <state relative-caret-position="-2349">
+              <caret line="338" column="31" lean-forward="true" selection-start-line="338" selection-start-column="31" selection-end-line="338" selection-end-column="31" />
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calc/src/PingPong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9010">
+              <caret line="552" column="46" selection-start-line="552" selection-start-column="46" selection-end-line="552" selection-end-column="46" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,6 +58,17 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calc/src/background_image.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -53,7 +92,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <option name="x" value="26" />
     <option name="width" value="1275" />
     <option name="height" value="760" />
@@ -63,8 +110,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,6 +138,10 @@
               <item name="calc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
             <path>
               <item name="cs102" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs102" type="462c0819:PsiDirectoryNode" />
@@ -104,16 +163,37 @@
               <item name="java_pingpong-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+=======
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557585613363" />
+=======
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557585613363" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557150834537" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_201" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -219,11 +299,19 @@
       <workItem from="1557140000793" duration="4707000" />
       <workItem from="1557154381702" duration="285000" />
       <workItem from="1557291609553" duration="26000" />
+<<<<<<< HEAD
       <workItem from="1557584538747" duration="1079000" />
       <workItem from="1557585637041" duration="2074000" />
       <workItem from="1557832379818" duration="671000" />
       <workItem from="1558025755816" duration="208000" />
       <workItem from="1558078339729" duration="753000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1557584538747" duration="1079000" />
+      <workItem from="1557585637041" duration="2071000" />
+=======
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     </task>
     <task id="LOCAL-00001" summary="added some fnc">
       <created>1556179347982</created>
@@ -264,13 +352,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="28220000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="26585000" />
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
+=======
+    <option name="totallyTimeSpent" value="23435000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,17 +385,40 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33486944" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33486944" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33486944" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39784947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.32872504" />
+=======
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.32872504" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" visible="true" weight="0.32872504" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32718894" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
+=======
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,7 +428,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+=======
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26127526" />
@@ -345,7 +477,20 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_riot-api-java-master.zip/riot-api-java-master/examples/StaticDataWithLocaleExample.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_riot-api-java-master.zip/riot-api-java-master/examples/SummonerExample.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_riot-api-java-master.zip/riot-api-java-master/examples/AsyncExample.java" />
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_riot-api-java-master.zip/riot-api-java-master/src/main/java/net/rithms/riot/api/ApiMethod.java" />
+=======
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_riot-api-java-master.zip/riot-api-java-master/src/main/java/net/rithms/riot/api/ApiMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <entry file="file://$PROJECT_DIR$/calc/src/ApiMethod.java" />
     <entry file="file://$PROJECT_DIR$/calc/src/tictactoe.java" />
     <entry file="file://$PROJECT_DIR$/calc/src/Paddle.java">
@@ -372,6 +517,19 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/calc/src/Ping-Pong.gif-384x288.png" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/calc/src/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <entry file="file://$PROJECT_DIR$/calc/src/ping-pong-red.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -399,6 +557,10 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
     <entry file="file://$PROJECT_DIR$/calc/src/background_image.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -504,6 +666,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Desktop/cs102/calc/src/PingPong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6171">
@@ -517,12 +680,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="342" column="50" lean-forward="true" selection-start-line="342" selection-start-column="50" selection-end-line="342" selection-end-column="50" />
+=======
+    <entry file="file://$PROJECT_DIR$/calc/src/PingPong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2349">
+          <caret line="338" column="31" lean-forward="true" selection-start-line="338" selection-start-column="31" selection-end-line="338" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/calc/src/PingPong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9010">
+          <caret line="552" column="46" selection-start-line="552" selection-start-column="46" selection-end-line="552" selection-end-column="46" />
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/calc/src/background_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+>>>>>>> 96799758599c6c073072e8376f19a723d9d3af2d
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
   </component>
   <component name="masterDetails">
     <states>

@@ -338,9 +338,13 @@ public class PingPong extends Application {
 
 	private String helpText() {
 		return "Players must hit the ball\n" +
+<<<<<<< HEAD
 				"Who misses the ball, he lost.\n" +
                 "The game consists in throwing the" +
                 "net stretched across the table.";
+=======
+				"Who misses the ball, he lost\n";
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
 	}
 
 	private void setFBpower(Labels p2fb2, int x) {
