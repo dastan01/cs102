@@ -340,7 +340,8 @@ public class PingPong extends Application {
 		return "Players must hit the ball\n" +
 				"Who misses the ball, he lost.\n" +
                 "The game consists in throwing the" +
-                "net stretched across the table.";
+                "net stretched across the table." +
+				" Can play two or four. ";
 	}
 
 	private void setFBpower(Labels p2fb2, int x) {
