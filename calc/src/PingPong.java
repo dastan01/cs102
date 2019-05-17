@@ -341,7 +341,9 @@ public class PingPong extends Application {
 				"Who misses the ball, he lost.\n" +
                 "The game consists in throwing the" +
                 "net stretched across the table." +
-				" Can play two or four. ";
+				" Can play two or four." +
+				"The minimum dimensions of a room for 1 table are 7.7 * 4.5 m." +
+				" To play, you must have:";
 	}
 
 	private void setFBpower(Labels p2fb2, int x) {
