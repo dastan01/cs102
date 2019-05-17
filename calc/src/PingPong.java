@@ -381,7 +381,7 @@ public class PingPong extends Application {
 			if (rightWall.isCollision(ball) && ball.isMovingRight()) {
 				ball.moveLeft(ballSpeed);
 				AudioHitWall.play();
-			}
+			}//h
 		}
 	}
 
