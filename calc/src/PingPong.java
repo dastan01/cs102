@@ -337,13 +337,9 @@ public class PingPong extends Application {
 	}
 
 	private String helpText() {
-		return "Players must hit the ball\n" +
-				"Who misses the ball, he lost.\n" +
-                "The game consists in throwing the" +
-                "net stretched across the table." +
-				" Can play two or four." +
-				"The minimum dimensions of a room for 1 table are 7.7 * 4.5 m." +
-				" To play, you must have:";
+		return "Players must hit the ball\n" +  //Instruction
+				"Who misses the ball, he lost.\n";
+
 	}
 
 	private void setFBpower(Labels p2fb2, int x) {
@@ -381,7 +377,7 @@ public class PingPong extends Application {
 			if (rightWall.isCollision(ball) && ball.isMovingRight()) {
 				ball.moveLeft(ballSpeed);
 				AudioHitWall.play();
-			}//h
+			}
 		}
 	}
 
@@ -586,6 +582,12 @@ public class PingPong extends Application {
 			}
 		}
 	}
+
+	public void Instruction() {
+        System.out.println("Everything is here");
+
+
+    }
 
 	private void keyboardEvents() {
 
