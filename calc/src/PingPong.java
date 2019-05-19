@@ -23,7 +23,7 @@ public class PingPong extends Application {
 	AnimationTimer timer;
 
 	Ball ball;
-	double ballSpeed = 1.5;//k
+	double ballSpeed = 1.5;
 
 	Scene scene;
 
@@ -53,7 +53,7 @@ public class PingPong extends Application {
 	Labels speedOf;
 	Labels result;
 	Labels helpTextlabel;
-	private String labelColor = "#ffedfe";
+	private String labelColor = "#ffdefe";
 
 	Audio AudioBGMPlay;
 	Audio AudioBGMWait;
@@ -318,7 +318,7 @@ public class PingPong extends Application {
 			timeline1.play();
 		});
 
-		showHelpButton = new Button("Instruction");
+		showHelpButton = new Button("Instruction"); //instruction for the game at the beginning
 		showHelpButton.setLayoutX((W / 2) - 40);
 		showHelpButton.setLayoutY(400);
 		showHelpButton.setOnAction(h -> {
@@ -582,13 +582,6 @@ public class PingPong extends Application {
 			}
 		}
 	}
-
-	public void Instruction() {
-        System.out.println("Everything is here");
-
-
-    }
-
 	private void keyboardEvents() {
 
 		scene.setOnKeyPressed(new EventHandler<KeyEvent>() {
