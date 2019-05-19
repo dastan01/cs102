@@ -318,7 +318,11 @@ public class PingPong extends Application {
 			timeline1.play();
 		});
 
+<<<<<<< HEAD
 		showHelpButton = new Button("Instruction"); //instruction for the game at the beginning
+=======
+		showHelpButton = new Button("Instruction");
+>>>>>>> f49342f5dfa9503e9b4b380c42bdc1dacb376269
 		showHelpButton.setLayoutX((W / 2) - 40);
 		showHelpButton.setLayoutY(400);
 		showHelpButton.setOnAction(h -> {
@@ -337,9 +341,20 @@ public class PingPong extends Application {
 	}
 
 	private String helpText() {
+<<<<<<< HEAD
 		return "Players must hit the ball\n" +  //Instruction
 				"Who misses the ball, he lost.\n";
 
+=======
+		return "Players must hit the ball\n" +
+<<<<<<< HEAD
+				"Who misses the ball, he lost.\n" +
+                "The game consists in throwing the" +
+                "net stretched across the table.";
+=======
+				"Who misses the ball, he lost\n";
+>>>>>>> 21c50d56b86e064ede62490227f8b0c832245f45
+>>>>>>> f49342f5dfa9503e9b4b380c42bdc1dacb376269
 	}
 
 	private void setFBpower(Labels p2fb2, int x) {
