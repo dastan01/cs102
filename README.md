@@ -1,1 +1,2 @@
-# cs102
+# cs102 Ping Pong java master
+The game begins with the ball being delivered by one of the players (by lot). After hitting the ball with a racket, he must make a rebound from the table on the server’s side, fly over the net without hitting it, and touch the table on the other side. When serving, the player, as well as his racket and ball must be behind the back line of the table. The serve is considered incorrect if the ball is served above the table or on the move (new rules). If the ball made a rebound from the table on the side of the server during the submission, the net flew over, hitting it or the rack of the net, and touched the table on the other side, then they rerun, and they do not count the point. The number of resubmissions is not limited.
